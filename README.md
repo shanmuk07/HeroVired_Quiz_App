@@ -1,6 +1,6 @@
 # HeroVired_Quiz_App
 
-# link to live page: 
+# link to live page:  https://shanmuk07.github.io/HeroVired_Quiz_App/
 
 ## First Question
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/104714887/227728880-e3f66f47-cf88-4c44-a5dc-5bb908e67082.png">
